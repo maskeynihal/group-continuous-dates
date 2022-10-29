@@ -1,6 +1,6 @@
 {
   "name": "group-continuous-dates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Group the list of continuous date together using group id",
   "main": "index.js",
   "repository": {
