@@ -1,0 +1,16 @@
+{
+  "name": "group-continuous-dates",
+  "version": "1.0.0",
+  "description": "Group the list of continuous date together using group id",
+  "main": "index.js",
+  "repository": "https://github.com/maskeynihal/group-continuous-dates",
+  "author": "Nihal Maskey <maskeynihal>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
