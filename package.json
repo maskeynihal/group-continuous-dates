@@ -1,5 +1,5 @@
 {
-  "name": "group-continuous-dates",
+  "name": "@maskeynihal/group-continuous-dates",
   "version": "1.0.1",
   "description": "Group the list of continuous date together using group id",
   "main": "index.js",
